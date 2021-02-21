@@ -27,7 +27,7 @@ Prasenjit Ghose 2nd Year Btech Computer Science and Engineering
 
 
 
-Installations and Running it in linux
+# Installations and Running it in linux
 
 1.forking and cloning the repository
 
@@ -72,7 +72,7 @@ copy your machines id i.e. server id in the client.py code
 and you can now send messages easily.
 
 
-Installation guide for Windows
+# Installation guide for Windows
 
 
 1.forking and cloning the repository
